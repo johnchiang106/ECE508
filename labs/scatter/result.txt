@@ -1,0 +1,83 @@
+TIMER:: Allocating GPU memory. took 4.545536ms
+TIMER:: Copying input memory to the GPU. took 0.031744ms
+TIMER:: Performing GPU Scatter computation took 0.369664ms
+TIMER:: Copying output memory to the CPU took 0.015936ms
+TIMER:: Allocating GPU memory. took 0.097920ms
+TIMER:: Copying input memory to the GPU. took 0.011776ms
+TIMER:: Performing GPU Scatter computation took 0.362496ms
+TIMER:: Copying output memory to the CPU took 0.012960ms
+TIMER:: Allocating GPU memory. took 0.089568ms
+TIMER:: Copying input memory to the GPU. took 0.015616ms
+TIMER:: Performing GPU Scatter computation took 0.708608ms
+TIMER:: Copying output memory to the CPU took 0.011904ms
+TIMER:: Allocating GPU memory. took 0.083520ms
+TIMER:: Copying input memory to the GPU. took 0.013760ms
+TIMER:: Performing GPU Scatter computation took 0.708608ms
+TIMER:: Copying output memory to the CPU took 0.011744ms
+TIMER:: Allocating GPU memory. took 0.106368ms
+TIMER:: Copying input memory to the GPU. took 0.032640ms
+TIMER:: Performing GPU Scatter computation took 0.710656ms
+TIMER:: Copying output memory to the CPU took 0.012160ms
+TIMER:: Allocating GPU memory. took 0.105632ms
+TIMER:: Copying input memory to the GPU. took 0.016384ms
+TIMER:: Performing GPU Scatter computation took 0.709632ms
+TIMER:: Copying output memory to the CPU took 0.013088ms
+TIMER:: Allocating GPU memory. took 0.086720ms
+TIMER:: Copying input memory to the GPU. took 0.014432ms
+TIMER:: Performing GPU Scatter computation took 0.708608ms
+TIMER:: Copying output memory to the CPU took 0.012320ms
+TIMER:: Allocating GPU memory. took 0.083808ms
+TIMER:: Copying input memory to the GPU. took 0.014464ms
+TIMER:: Performing GPU Scatter computation took 0.709632ms
+TIMER:: Copying output memory to the CPU took 0.014848ms
+TIMER:: Allocating GPU memory. took 0.083456ms
+TIMER:: Copying input memory to the GPU. took 0.021984ms
+TIMER:: Performing GPU Scatter computation took 3.110912ms
+TIMER:: Copying output memory to the CPU took 0.022496ms
+TIMER:: Allocating GPU memory. took 0.094496ms
+TIMER:: Copying input memory to the GPU. took 0.022816ms
+TIMER:: Performing GPU Scatter computation took 3.115008ms
+TIMER:: Copying output memory to the CPU took 0.023200ms
+TIMER:: Allocating GPU memory. took 0.089280ms
+TIMER:: Copying input memory to the GPU. took 0.023264ms
+TIMER:: Performing GPU Scatter computation took 3.391488ms
+TIMER:: Copying output memory to the CPU took 0.024704ms
+TIMER:: Allocating GPU memory. took 0.088480ms
+TIMER:: Copying input memory to the GPU. took 0.022432ms
+TIMER:: Performing GPU Scatter computation took 3.391488ms
+TIMER:: Copying output memory to the CPU took 0.040352ms
+TIMER:: Allocating GPU memory. took 0.092000ms
+TIMER:: Copying input memory to the GPU. took 0.021120ms
+TIMER:: Performing GPU Scatter computation took 2.803712ms
+TIMER:: Copying output memory to the CPU took 0.037568ms
+TIMER:: Allocating GPU memory. took 0.101568ms
+TIMER:: Copying input memory to the GPU. took 0.020448ms
+TIMER:: Performing GPU Scatter computation took 2.803712ms
+TIMER:: Copying output memory to the CPU took 0.021152ms
+TIMER:: Allocating GPU memory. took 0.100576ms
+TIMER:: Copying input memory to the GPU. took 0.034624ms
+TIMER:: Performing GPU Scatter computation took 2.805760ms
+TIMER:: Copying output memory to the CPU took 0.022016ms
+TIMER:: Allocating GPU memory. took 0.086528ms
+TIMER:: Copying input memory to the GPU. took 0.019936ms
+TIMER:: Performing GPU Scatter computation took 2.803712ms
+TIMER:: Copying output memory to the CPU took 0.022368ms
+TIMER:: Allocating GPU memory. took 0.087840ms
+TIMER:: Copying input memory to the GPU. took 0.020512ms
+TIMER:: Performing GPU Scatter computation took 2.804736ms
+TIMER:: Copying output memory to the CPU took 0.022080ms
+TIMER:: Allocating GPU memory. took 0.087584ms
+TIMER:: Copying input memory to the GPU. took 0.020704ms
+TIMER:: Performing GPU Scatter computation took 2.803712ms
+TIMER:: Copying output memory to the CPU took 0.021152ms
+TIMER:: Allocating GPU memory. took 0.087424ms
+TIMER:: Copying input memory to the GPU. took 0.030720ms
+TIMER:: Performing GPU Scatter computation took 5.558272ms
+TIMER:: Copying output memory to the CPU took 0.037120ms
+TIMER:: Allocating GPU memory. took 0.090528ms
+TIMER:: Copying input memory to the GPU. took 0.030368ms
+TIMER:: Performing GPU Scatter computation took 5.555200ms
+TIMER:: Copying output memory to the CPU took 0.032928ms
+===============================================================================
+All tests passed (66956 assertions in 1 test case)
+✱ The build folder has been uploaded to http://s3.amazonaws.com/files.rai-project.com/userdata/build-63d8830eea7d980079a65f93.tar.gz. The data will be present for only a short duration of time.

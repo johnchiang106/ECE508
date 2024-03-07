@@ -1,0 +1,11 @@
+Info:: There is 1 device supporting CUDA
+Info:: Device 0 name TITAN V
+Info::  Computational Capabilities: 7.0
+Info::  Maximum global memory size: 12652838912
+Info::  Maximum constant memory size: 65536
+Info::  Maximum shared memory size per block: 49152
+Info::  Maximum block dimensions: 1024x1024x64
+Info::  Maximum grid dimensions: 2147483647x65535x65535
+Info::  Warp size: 32
+TIMER:: Getting GPU Data. took 0.232448ms
+✱ The build folder has been uploaded to http://s3.amazonaws.com/files.rai-project.com/userdata/build-63d885c3ea7d98009b3b5183.tar.gz. The data will be present for only a short duration of time.
